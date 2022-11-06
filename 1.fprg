@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="s27556"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-06 08:29:10 PM"/>
+        <attribute name="created" value="czI3NTU2O0xBQjExMVctMTA7MjAyMi0xMC0yNDswODo0ODowMCBBTTsyMjI1"/>
+        <attribute name="edited" value="czI3NTU2O0xBQjExMVctMTA7MjAyMi0xMC0yNDswODo1NTozMCBBTTsxOzIzMzQ="/>
+        <attribute name="edited" value="eml1dGU7REVTS1RPUC1WMDRBTkpNOzIwMjItMTAtMzE7MDQ6MjQ6NDMgUE07MTszMDA0"/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC1LTjJONERVOzIwMjItMTEtMDY7MDg6Mjk6MTAgUE07MTszMzEw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, i" type="Integer" array="False" size=""/>
+            <input variable="x"/>
+            <for variable="i" start="x" end="1" direction="dec" step="1">
+                <output expression="i" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

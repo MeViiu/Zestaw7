@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ziute"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-06 08:29:54 PM"/>
+        <attribute name="created" value="eml1dGU7REVTS1RPUC1WMDRBTkpNOzIwMjItMTAtMjQ7MDg6MDM6MjcgUE07MjkwMQ=="/>
+        <attribute name="edited" value="eml1dGU7REVTS1RPUC1WMDRBTkpNOzIwMjItMTAtMjQ7MDg6MDU6NDkgUE07MTszMDE1"/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC1LTjJONERVOzIwMjItMTEtMDY7MDg6Mjk6NTQgUE07MTszMzE4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <input variable="x"/>
+            <while expression="x &lt; 0">
+                <input variable="x"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
